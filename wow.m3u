@@ -7,6 +7,8 @@ https://epg.112114.xyz/douyu/424559
 https://epg.112114.xyz/bili/7734200
 #EXTINF:-1,虎牙英雄联盟
 http://epg.112114.xyz/huya/660000
+#EXTINF:-1,虎牙LCK
+http://epg.112114.xyz/huya/660001
 #EXTINF:-1,虎牙久哥
 http://epg.112114.xyz/huya/529
 #EXTINF:-1,真实电竞
@@ -17,8 +19,6 @@ https://epg.112114.xyz/bili/26060651
 https://epg.112114.xyz/douyu/252140
 #EXTINF:-1,斗鱼暴雪游戏
 https://epg.112114.xyz/douyu/1024
-#EXTINF:-1,虎牙liquid
-http://live.aptvapp.com/live/huya/26640271
 #EXTINF:-1,天涯二细
 http://epg.112114.xyz/huya/102491
 #EXTINF:-1,佶天鸿周芷若

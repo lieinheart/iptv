@@ -6,10 +6,12 @@ https://epg.112114.xyz/douyu/424559
 #EXTINF:-1,斗鱼DOTA2(1)
 https://epg.112114.xyz/douyu/30
 #EXTINF:-1,斗鱼DOTA2(2)
-https://epg.112114.xyz/douyu/9503003
+https://epg.112114.xyz/douyu/9999
 #EXTINF:-1,哔哩哔哩英雄联盟
 https://epg.112114.xyz/bili/7734200
-#EXTINF:-1,哔哩哔哩DOTA2
+#EXTINF:-1,哔哩哔哩DOTA2(1)
+https://epg.112114.xyz/bili/46936
+#EXITNF:-1,哔哩哔哩DOTA2(2)
 https://epg.112114.xyz/bili/46937
 #EXTINF:-1,虎牙英雄联盟
 http://epg.112114.xyz/huya/660000

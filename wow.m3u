@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,斗鱼暴雪游戏
 https://epg.112114.xyz/douyu/1024
+#EXTINF:-1,虎牙Liquid
+http://live.iill.top/huya.php?id=26640271
 #EXTINF:-1,二细
 http://live.iill.top/huya.php?id=102491
 #EXTINF:-1,周芷若
